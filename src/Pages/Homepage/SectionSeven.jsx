@@ -1,0 +1,24 @@
+import React from "react";
+
+function SectionSeven() {
+  return (
+    <div className="py-[100px] bg-white flex items-center justify-center">
+      <div className="w-[85%] bg-[#FDB813] h-[600px] rounded-[20px] flex items-center justify-end flex-col">
+        <h1 className="text-[60px] font-black mb-[40px]">Download the app</h1>
+        <div className="flex gap-[20px] mb-[40px]">
+          <div className="bg-white w-[160px] h-[50px] rounded-[30px] flex items-center justify-center gap-[7px]">
+            <img src="/assets/apple_logo.png" alt="" />
+            <p className="mb-0">Google Play</p>
+          </div>
+          <div className="bg-white w-[160px] h-[50px] rounded-[30px] flex items-center justify-center gap-[7px]">
+            <img src="/assets/apple_logo.png" alt="" />
+            <p className="mb-0">Apple</p>
+          </div>
+        </div>
+        <img src="/assets/download.png" alt="" />
+      </div>
+    </div>
+  );
+}
+
+export default SectionSeven;

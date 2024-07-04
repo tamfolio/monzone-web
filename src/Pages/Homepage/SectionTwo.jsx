@@ -4,7 +4,7 @@ function SectionTwo() {
   return (
     <div className='py-[100px] pl-[122px] pr-[90px]'>
         <h1 className='text-[60px] font-bold w-[628px]'>Banking, Loans & Savings. <span className='italic text-[#FDB813]'>Simplified</span>.</h1>
-        <div className='mt-[100px] flex items-center justify-between'>
+        <div className='mt-[100px] flex items-center justify-center gap-[100px]'>
             <div className='flex flex-col items-center justify-center w-[360px]'>
                 <img src="/assets/mob1.png" alt="" />
                 <h1 className='text-[35px] font-bold my-[40px]'>Banking</h1>
