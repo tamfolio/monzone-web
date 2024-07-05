@@ -2,7 +2,7 @@ import React from "react";
 
 function SectionThree() {
   return (
-    <div className="bg-[#E9E9E9] flex items-center justify-between px-[122px] pt-[100px]">
+    <div className="bg-[#E9E9E9] flex items-center justify-center px-[122px] pt-[100px] gap-[100px]">
       <div>
         <h1 className="text-[60px] font-bold w-[520px] mb-[40px]">Your best choice for personal and business banking</h1>
         <p className="text-[18px] w-[458px] mb-[40px]">

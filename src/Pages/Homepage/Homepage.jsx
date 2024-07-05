@@ -12,7 +12,6 @@ import Footer from '../../Components/Footer/Footer'
 function Homepage() {
   return (
     <div className='w-[100%]'>
-        <Navbar/>
         <SectionOne/>
         <SectionTwo/>
         <SectionThree/>
@@ -20,7 +19,6 @@ function Homepage() {
         <SectionFive/>
         <SectionSix/>
         <SectionSeven/>
-        <Footer/>
     </div>
   )
 }

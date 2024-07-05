@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
@@ -7,16 +8,16 @@ function Navbar() {
         <img src="/assets/logo.png" alt="" className="w-[190px] h-[53px]" />
         <div className="flex no-underline no-list-style gap-[30px]">
           <li>
-            <a href="/">Home</a>
+            <Link to="/">Home</Link>
           </li>
           <li>
-            <a href="/">About</a>
+            <Link to="/about-us">About</Link>
           </li>
           <li>
-            <a href="/">Contact</a>
+            <Link to="/">Contact</Link>
           </li>
           <li>
-            <a href="/">FAQ</a>
+            <Link to="/">FAQ</Link>
           </li>
         </div>
       </div>
