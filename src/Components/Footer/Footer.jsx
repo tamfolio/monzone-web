@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -8,7 +9,7 @@ function Footer() {
         <img src="/assets/logo2.png" alt="" />
         <div className="flex no-underline no-list-style gap-[30px]">
           <li>
-            <a href="/">Terms & Conditions</a>
+            <Link to="/terms&conditions">Terms & Conditions</Link>
           </li>
           <li>
             <a href="/">Privacy Policy</a>
