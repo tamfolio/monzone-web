@@ -2,9 +2,9 @@ import React from 'react'
 
 function SectionTwo() {
   return (
-    <div className='py-[100px] pl-[122px] pr-[90px]'>
-        <h1 className='text-[60px] font-bold w-[628px]'>Banking, Loans & Savings. <span className='italic text-[#FDB813]'>Simplified</span>.</h1>
-        <div className='mt-[100px] flex items-center justify-center gap-[100px]'>
+    <div className='py-[50px] lg:py-[100px] pl-[24px] lg:pl-[122px] px-[24px] lg:px-[90px]'>
+        <h1 className='text-[33px] lg:text-[60px] font-bold w-[346px] lg:w-[628px]'>Banking, Loans & Savings. <span className='italic text-[#FDB813]'>Simplified</span>.</h1>
+        <div className='mt-[100px] flex flex-col lg:flex-row items-center justify-center gap-[100px] w-[100%]'>
             <div className='flex flex-col items-center justify-center w-[360px]'>
                 <img src="/assets/mob1.png" alt="" />
                 <h1 className='text-[35px] font-bold my-[40px]'>Banking</h1>
