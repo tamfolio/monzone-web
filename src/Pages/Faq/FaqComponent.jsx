@@ -21,9 +21,9 @@ const data = {
       content: `Not at the moment, but it's coming soon!`,
     },
     {
-        title: "Is the invoice product free?",
-        content: `Yes, our invoice product is free.`,
-      },
+      title: "Is the invoice product free?",
+      content: `Yes, our invoice product is free.`,
+    },
   ],
 };
 
@@ -31,10 +31,10 @@ const styles = {
   // bgColor: 'white',
   titleTextColor: "blue",
   rowTitleColor: "#0a0a0a",
-  rowContentColor: '#535353',
+  rowContentColor: "#535353",
   // arrowColor: "red",
-   rowContentPaddingTop: '10px',
-   rowContentPaddingBottom: '10px',
+  rowContentPaddingTop: "10px",
+  rowContentPaddingBottom: "10px",
 };
 
 const config = {
@@ -45,19 +45,19 @@ const config = {
 
 function FaqComponent() {
   return (
-    <div className="bg-white py-[100px] flex items-start justify-center gap-[140px] px-[122px]">
-      <div className="w-[300px]">
-        <h1 className="text-[40px] text-[#0a0a0a] font-bold mb-[40px]">
+    <div className="bg-white py-[50px] lg:py-[100px] flex flex-col lg:flex-row items-center lg:items-start justify-center gap-[60px] lg:gap-[140px] px-[24px] lg:px-[122px]">
+      <div className="w-[300px] flex flex-col items-center justify-center">
+        <h1 className="text-[30px] lg:text-[40px] text-[#0a0a0a] font-bold mb-[20px] lg:mb-[40px] text-center lg:text-left">
           Got questions? We are here to assist!
         </h1>
-        <p className="text-[#535353]">
+        <p className="text-[#535353] text-center">
           Send us an email at{" "}
           <span className="text-[#0a0a0a] underline">
             hello@monzonecredit.com
           </span>
         </p>
       </div>
-      <div className="flex gap-[90px] w-[700px] flex-wrap">
+      <div className="flex gap-[90px] w-[350px] lg:w-[700px] flex-wrap">
         <Faq data={data} styles={styles} config={config} />
       </div>
     </div>
