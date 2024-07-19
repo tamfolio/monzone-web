@@ -25,7 +25,7 @@ function TermsConditions() {
       <button className="w-[160px] h-[50px] bg-[#FDB813] font-bold rounded-[30px] ">
         Download PDF
       </button>
-      <div className="flex flex-col lg:flex-row items-start justify-center mt-[50px] lg:gap-[150px] gap-[30px]">
+      <div className="flex flex-col lg:flex-row items-center lg:items-start justify-center mt-[50px] lg:gap-[150px] gap-[30px]">
         <div className="w-[280px] lg:flex flex-col gap-[50px] hidden">
           {menuItems.map((item, index) => (
             <p
@@ -42,7 +42,7 @@ function TermsConditions() {
           ))}
         </div>
         <div className="block lg:hidden">
-          <FormGroup className="w-[386px]">
+          <FormGroup className="min-w-[386px]">
             <Input
               id="exampleSelect"
               name="select"
@@ -58,7 +58,7 @@ function TermsConditions() {
             </Input>
           </FormGroup>
         </div>
-        <div className="min-w-[380px] lg:w-[726px] px-[24px]">
+        <div className="min-w-[380px] lg:w-[726px] pl-[34px] pr-[16px]">
           {page === 0 && (
             <p>
               Monzone Credit Limited (“Monzone”, “us”. “we”) is a limited
