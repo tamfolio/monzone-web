@@ -12,7 +12,7 @@ function Navbar() {
   console.log(activeMobile);
   return (
     <>
-      <div className="w-[100%] h-[10vh] bg-[#FDB813] flex items-center justify-between px-[24px] lg:px-[122px] py-[31px] relative">
+      <div className="w-[100%] h-[10vh] bg-[#FDB813] flex items-center justify-between px-[24px] lg:px-[122px] py-[31px] relative noise">
         <div className="flex items-center justify-between gap-[70px]">
           <img
             src="/assets/logo.png"

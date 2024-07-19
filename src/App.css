@@ -16,3 +16,8 @@ p{
 .no-list-style{
   list-style: none;
 }
+
+
+.noise{
+  background-image: url('../public/assets/texture.png');
+}

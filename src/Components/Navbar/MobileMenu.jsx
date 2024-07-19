@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function MobileMenu({activeToggle}) {
   return (
-    <div className="relative z-10 w-[100%] h-[100vh] bg-[#FDB813] flex flex-col items-center justify-start">
+    <div className="relative z-10 w-[100%] h-[100vh] bg-[#FDB813] flex flex-col items-center justify-start noise">
       <div className="flex flex-col no-underline no-list-style gap-[30px] items-center justify-center mt-[50px]">
         <li>
           <Link to="/" className="text-[32px] font-bold" onClick={activeToggle}>Home</Link>
