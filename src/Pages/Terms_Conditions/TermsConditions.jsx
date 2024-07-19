@@ -41,7 +41,7 @@ function TermsConditions() {
             </p>
           ))}
         </div>
-        <div>
+        <div className="block lg:hidden">
           <FormGroup className="w-[386px]">
             <Input
               id="exampleSelect"
@@ -58,7 +58,7 @@ function TermsConditions() {
             </Input>
           </FormGroup>
         </div>
-        <div className="w-[380px] lg:w-[726px]">
+        <div className="min-w-[380px] lg:w-[726px] px-[24px]">
           {page === 0 && (
             <p>
               Monzone Credit Limited (“Monzone”, “us”. “we”) is a limited
