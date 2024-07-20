@@ -3,7 +3,7 @@ import React from "react";
 function Missions() {
   return (
     <div className="flex flex-col bg-white py-[60px] lg:py-[100px] px-[24px] lg:px-[122px]">
-      <h1 className="text-[18px] lg:text-[30px] font-medium w-[381px] lg:w-[830px] text-[#0a0a0a] mb-[100px] leading-[31px]">
+      <h1 className="text-[18px] lg:text-[30px] font-medium w-[361px] lg:w-[830px] text-[#0a0a0a] mb-[100px] leading-[31px]">
         Monzone simplifies banking by providing top-tier financial services for
         both personal and business banking.
         <span className="text-[#535353]">
