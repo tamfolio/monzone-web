@@ -2,6 +2,9 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 function Footer() {
+  const handleLinkClick = () => {
+    window.scrollTo(0, 0);
+  };
   return (
     <div className="w-[100%] flex flex-col items-center justify-center">
       <div className="w-[85%] h-[1px] bg-[#FDB813]"></div>
@@ -9,10 +12,10 @@ function Footer() {
         <img src="/assets/logo2.png" alt="" />
         <div className="flex no-underline no-list-style gap-[30px]">
           <li>
-            <Link to="/terms&conditions">Terms & Conditions</Link>
+            <Link to="/terms&conditions" onClick={handleLinkClick}>Terms & Conditions</Link>
           </li>
           <li>
-            <a href="/">Privacy Policy</a>
+            <Link to="/privacy-policy">Privacy Policy</Link>
           </li>
           <li>
             <a href="/">Contact</a>

@@ -20,11 +20,8 @@ function TermsConditions() {
   return (
     <div className="flex flex-col items-center justify-start py-[50px]">
       <h1 className="text-[40px] lg:text-[100px] font-bold text-[#0a0a0a] mb-[40px]">
-        Terms & Conditions
+      Terms of Use
       </h1>
-      <button className="w-[160px] h-[50px] bg-[#FDB813] font-bold rounded-[30px] ">
-        Download PDF
-      </button>
       <div className="flex flex-col lg:flex-row items-center lg:items-start justify-center mt-[50px] lg:gap-[150px] gap-[30px]">
         <div className="w-[280px] lg:flex flex-col gap-[50px] hidden">
           {menuItems.map((item, index) => (
