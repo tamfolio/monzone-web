@@ -2,7 +2,7 @@ import React from 'react'
 
 function SectionSix() {
   return (
-    <div className='bg-white  py-[60px] lg:py-[100px] flex flex-col lg:flex-row items-center justify-center px-[24px] lg:px-[152px] gap-[40px] lg:gap-[250px]'>
+    <div className='bg-white  py-[60px] lg:py-[100px] flex flex-col lg:flex-row items-center justify-center pl-[24px] pr-[11px] lg:px-[152px] gap-[40px] lg:gap-[250px]'>
         <div className='w-[385px] lg:w-[486px]'>
             <div className='flex items-center justify-start gap-[12px]'>
                 <img src="/assets/lock.png" alt="" />
