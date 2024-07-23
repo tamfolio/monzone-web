@@ -7,6 +7,7 @@ import Faq from "./Pages/Faq/Faq";
 import Homepage from "./Pages/Homepage/Homepage";
 import { Routes, Route, useLocation } from "react-router-dom"; // Import useLocation
 import TermsConditions from "./Pages/Terms_Conditions/TermsConditions";
+import PrivacyPolicy from "./Pages/Terms_Conditions/PrivacyPolicy";
 import NavbarTwo from "./Components/Navbar/NavbarTwo";
 
 function App() {
@@ -14,13 +15,14 @@ function App() {
 
   return (
     <>
-      {location.pathname === "/terms&conditions" ? <NavbarTwo /> : <Navbar />}
+      {location.pathname === "/terms&conditions" || "privacy-policy" ? <NavbarTwo /> : <Navbar />}
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/about-us" element={<About />} />
         <Route path="/contact-us" element={<Contact />} />
         <Route path="/faq" element={<Faq />} />
         <Route path="/terms&conditions" element={<TermsConditions />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
       </Routes>
       <Footer />
     </>

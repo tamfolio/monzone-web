@@ -9,7 +9,7 @@ function TermsConditions() {
       <h1 className="text-[40px] lg:text-[100px] font-bold text-[#0a0a0a] mb-[40px]">
         Terms of Use
       </h1>
-      <div className="flex flex-col  items-center lg:items-start justify-center mt-[50px]  gap-[50px] w-[380px] lg:w-[994px] pl-[24px] pr-[16px]">
+      <div className="flex flex-col  items-center lg:items-start justify-center mt-[50px]  gap-[50px] w-[380px] lg:w-[994px] pl-[24px] pr-[16px] lg:pl-0 lg:pr-0">
         <div className="flex flex-col gap-[30px]">
           <h1 className="text-[16px] font-bold">1. INTRODUCTION</h1>
           <p className="leading-[30px] font-regular">
