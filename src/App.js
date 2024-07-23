@@ -13,9 +13,11 @@ import NavbarTwo from "./Components/Navbar/NavbarTwo";
 function App() {
   const location = useLocation();
 
+  const showNavbarTwo = location.pathname === "/terms&conditions" || location.pathname === "/privacy-policy";
+
   return (
     <>
-      {location.pathname === "/terms&conditions" || "privacy-policy" ? <NavbarTwo /> : <Navbar />}
+       {showNavbarTwo ? <NavbarTwo /> : <Navbar />}
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/about-us" element={<About />} />
