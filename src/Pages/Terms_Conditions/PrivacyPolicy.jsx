@@ -272,39 +272,277 @@ function PrivacyPolicy() {
           use of the Platform.
         </p>
         <p className="leading-[30px] font-regular">
-          6. Our Principles of Data Processing  <br />a. Personal data
-          will be processed fairly, lawfully, and in a transparent manner;<br />
-          b. Personal data will be processed for a specific
-          purpose and not in a way that is incompatible with the purpose which
-          Monzone has collected it; <br />c. Your personal data is
-          adequate, relevant, and limited to what is necessary for the purposes
-          for which it is processed; <br /> d. Your personal data will be
-          kept accurate and, where necessary kept up to date;<br /> e.
-          Your personal data will be kept for no longer than is necessary for
-          the purposes for which it is processed; <br />f. We will
-          take appropriate steps to keep your personal data secure. <br /> <br /> 7.
-           Lawful Basis for Processing Your Data <br />1. Consent <br />When you
-          give clear consent for us to process your personal data for a specific
-          purpose or according to Section 8 of this Policy. <br />2. Contract <br />If the
-          processing of your data is necessary for a contract you have with us,
-          or because we have asked you to take specific steps before entering
-          into that contract.<br /> 3. Legal Obligation <br /> If the processing of your
-          personal data is necessary where there is a statutory obligation upon
-          us.<br /> 4. Legitimate interests <br />Processing your data is necessary for our
-          legitimate interests or the legitimate interests of a third party,
-          provided those interests are not outweighed by your rights and
-          interests. These legitimate interests are: <br />a. gaining
-          insights from your behavior on our website or in our app ; <br />
-          b. delivering, developing, and improving Monzone
-          service <br />c. enabling us to enhance, customize or modify
-          our services and communications <br />d. determining whether
-          marketing campaigns are effective <br />e. enhancing data
-          security In each case, these legitimate interests are only valid if
-          they are not outweighed by your rights and interests, are not
-          incompatible with other lawful basis for processing data under the
-          Nigeria Data Protection Act 2023, and where you do not have a
-          reasonable expectation that the data would be processed in the manner
-          envisaged.
+          6. Our Principles of Data Processing <br />
+          a. Personal data will be processed fairly, lawfully, and in a
+          transparent manner;
+          <br />
+          b. Personal data will be processed for a specific purpose and not in a
+          way that is incompatible with the purpose which Monzone has collected
+          it; <br />
+          c. Your personal data is adequate, relevant, and limited to what is
+          necessary for the purposes for which it is processed; <br /> d. Your
+          personal data will be kept accurate and, where necessary kept up to
+          date;
+          <br /> e. Your personal data will be kept for no longer than is
+          necessary for the purposes for which it is processed; <br />
+          f. We will take appropriate steps to keep your personal data secure.{" "}
+          <br /> <br /> 7. Lawful Basis for Processing Your Data <br />
+          1. Consent <br />
+          When you give clear consent for us to process your personal data for a
+          specific purpose or according to Section 8 of this Policy. <br />
+          2. Contract <br />
+          If the processing of your data is necessary for a contract you have
+          with us, or because we have asked you to take specific steps before
+          entering into that contract.
+          <br /> 3. Legal Obligation <br /> If the processing of your personal
+          data is necessary where there is a statutory obligation upon us.
+          <br /> 4. Legitimate interests <br />
+          Processing your data is necessary for our legitimate interests or the
+          legitimate interests of a third party, provided those interests are
+          not outweighed by your rights and interests. These legitimate
+          interests are: <br />
+          a. gaining insights from your behavior on our website or in our app ;{" "}
+          <br />
+          b. delivering, developing, and improving Monzone service <br />
+          c. enabling us to enhance, customize or modify our services and
+          communications <br />
+          d. determining whether marketing campaigns are effective <br />
+          e. enhancing data security In each case, these legitimate interests
+          are only valid if they are not outweighed by your rights and
+          interests, are not incompatible with other lawful basis for processing
+          data under the Nigeria Data Protection Act 2023, and where you do not
+          have a reasonable expectation that the data would be processed in the
+          manner envisaged. <br /><br /> 5. Vital interests <br /><br /> If processing
+          your data is necessary to protect your vital interest or that of a
+          third party <br /><br /> 8.  What Constitutes Consent? <br /><br /> 1. We
+          will not ask for your personal data unless we need it to provide
+          services to you. At any point where consent is the appropriate lawful
+          basis for processing your personal data, we will provide you the
+          option to either accept or not. In addition, whenever we introduce new
+          services and technologies, we will ensure you understand and agree to
+          any new ways in which your information will be processed. <br /><br /> 2.
+          You will be considered to have given your consent to Monzone for the
+          processing of your personal data when; <br /><br />a. You complete any
+          form issued by Monzone at any of our service points (mobile, online,
+          in-branch, etc.) requesting such personal information; <br /><br /> b.You
+          register, check, or tick the acceptance box on any of our electronic
+          platforms (Online or Mobile) relating to terms and conditions of any
+          service or product offered; <br /><br />c. You  use  any 
+          service or  product offered 
+          by Monzone; and <br /><br /> d. Monzone intends to share your personal
+          data for processing with any country that is not listed in the
+          Whitelist of Countries as may be published by the Nigeria Data
+          Protection Commission (NDPC from time to time. <br /><br /> 3. If
+          we ask for your personal information for a secondary reason, like
+          marketing, we will either ask you directly for your expressed consent
+          or provide you with an opportunity to say no. <br /><br /> 4. How
+          do I withdraw my consent? <br /><br /> If after you opt-in, you change your mind,
+          you may withdraw your consent to the continued processing of your
+          personal data, at any time, by contacting us at
+          hello@monzonecredit.com <br /> 9. Who do We Share Your
+          Information with? <br /><br />1. We may disclose your personal information to
+          third parties where it is in our legitimate interest to do so
+          including for the following reasons: <br /><br /> a. We may share your
+          information with analytics and search engine providers that assist us
+          in the improvement and optimization of our site;<br /> b. Entities
+          engaged in order to provide the Services (e.g., hosting providers or
+          e-mail platform providers);<br /> c. We engage service providers to
+          perform functions and provide services to us. We may share your
+          private personal information with such service providers subject to
+          obligations consistent with this Privacy Policy and any other
+          appropriate confidentiality and security measures, and on the
+          condition that the third parties use your private personal data only
+          on our behalf and pursuant to our instructions; <br /> d. Persons
+          authorized to perform technical maintenance (including maintenance of
+          network equipment and electronic communications networks); <br /> e.
+          Public entities, bodies or authorities to whom your Personal Data may
+          be disclosed, in accordance with the applicable law or binding orders
+          of those entities, bodies or authorities; <br /> f. Persons authorized
+          by Monzone to process Personal Data needed to carry out activities
+          strictly related to the provision of the Services, who have undertaken
+          an obligation of confidentiality or are subject to an appropriate 
+          legal obligation of confidentiality (e.g., employees of Monzone); <br />
+          g. We may share your personal information with companies and other
+          third parties performing services on our behalf (for example KYC
+          service providers, credit reference agencies, customer relationship
+          management providers, or other service providers) who will only use
+          the information to provide that service. We may also share your
+          personal information with other members of our corporate group, or a
+          purchaser or potential purchaser of our business; <br />h. We may share
+          alerts and information derived from identity verification checks with
+          third parties for the purpose of anti-money laundering and fraud
+          prevention; and <br /> i. We may include applications or widgets from
+          social media networks that allow interaction or content sharing by
+          their users. These widgets, such as a Facebook “Share” or “Like”
+          button, are visible to you on the web page you visit. Integration
+          between the Service and social media networks such as Facebook,
+          Twitter and others may allow social media networks in which you
+          participate to collect information about you, even when you do not
+          explicitly activate the networks application or widget. Please visit
+          the applicable social media network's privacy policy to better
+          understand their data collection practices and choices they make
+          available to you. The privacy policy of the social media network
+          controls the collection, use and disclosure of all personal
+          information transmitted to that network; <br /> j. We may disclose any
+          information, including, without limitation, Personal Information that
+          we deem necessary, in our sole discretion and without your prior
+          permission, to comply with any applicable law, regulation, legal
+          process or governmental request. We also may exchange information,
+          including, without limitation, Personal Information, with other
+          companies and organizations to protect the rights, property, or safety
+          of the Company and its affiliates, personnel, users, third parties, or
+          others. We reserve the right to disclose a user's Personal Information
+          if we believe, in good faith, that the user is in violation of the
+          Terms of Service, even without a subpoena, warrant or other court
+          order. <br /><br /> 2. Save as set out in this privacy policy , we will
+          not sell or disclose your data to any third party. <br /><br /> 3. By
+          using our Platform, our services or product owned by us, you consent
+          to us sharing your collected information with any third party as may
+          be important and necessary for accessing this Platform or using any of
+          our services and product <br /><br /> 10.  Where We Store Your
+          Personal Data <br /><br /> We are committed to ensuring that your
+          information is safe and take all steps reasonably necessary to
+          ensure that your data is treated securely and in accordance with this
+          privacy policy. In order to prevent unauthorized access or disclosure,
+          we have put in place suitable physical, electronic, and managerial
+          procedures to safeguard and secure the information we collect online.
+          <br /><br /> 11.  How Long We Keep Your Information <br /><br /> a. We will
+          keep your data for as long as necessary to fulfill the purposes
+          described in this privacy policy. However, we will also retain data
+          subject to relevant provisions of applicable laws. <br /><br /> b. Personal
+          information that we process for any purpose or purposes may be
+          maintained. <br /> c. Notwithstanding the other provisions of this
+          Section, we will retain documents (including electronic documents)
+          containing personal data if we believe that the documents may be
+          relevant to any ongoing or prospective legal proceedings, and in order
+          to establish, exercise or defend our legal rights (including providing
+          information to others for the purposes of fraud prevention and
+          reducing credit risk). <br /><br />12.  Marketing and
+          Communications <br /><br />1. We strive to provide you with choices regarding
+          certain personal data uses, particularly around marketing and
+          advertising. <br /> <br />2. If you have registered with us or have previously
+          asked us for information on our products or services and you have not
+          opted out of receiving that marketing information, we may send you
+          information on our range of products, services, promotions, special
+          offers, and other information which we think you may find interesting
+          by phone, email and/or SMS. <br /><br /> 3. We will get your express opt-in
+          consent before we share your personal data with any third party for
+          marketing purposes. <br /><br />4. You can ask us or third parties to stop
+          sending you marketing messages at any time by contacting us by email
+          at hello@monzonecredit.com <br /><br /> 13.  Your Rights <br /> You have
+          the following rights: <br /> a. the right to request access to
+          your personal data; <br /> <br /> b.the right to the erasure of
+          your personal data (“right to be forgotten”); <br /><br /> c.
+          the right to rectify or amend inaccurate or incomplete personal data;
+          <br /> <br />d. the right to object to the processing of your
+          personal data; <br /><br /> e. the right to portability of data;
+          <br /> <br /> f. the right to lodge a complaint with the Court,
+          the Nigeria Data Protection Commission (NDPC), or any other relevant
+          supervisory authority; <br /> <br /> g. The right to object to
+          automated processing of your personal data including profiling subject
+          to the exceptions provided under the Nigeria Data Protection Act,
+          2023; and <br /> <br /> h. the right to withdraw consent to the
+          processing of your personal data. Kindly note that the withdrawal of
+          your consent shall not affect the lawfulness of data processing that
+          occurred prior to the withdrawal. <br /> <br />14. Security of Data
+          <br /> <br />We are very particular about preserving your privacy and protecting
+          your data. Therefore, to avoid the loss, theft, misuse, and
+          unauthorized access, disclosure, alteration, and destruction of your
+          information, we have put in place a range of administrative,
+          technical, organizational, and physical safeguards. Regular
+          third-party audits are conducted at Monzone to ensure we use the
+          latest technologies and best practices to protect data. Our employees
+          are trained in data security and are bound by strict confidentiality
+          provisions. Despite this, we cannot completely guarantee the security
+          of any information you transmit via our online channels, as the
+          internet is not an entirely secure place. <br /> <br />15. 
+          International Transfer of Data <br /> <br />1. Your Personal Data may be
+          transferred to Recipients located in several different countries. To
+          achieve the purposes described in this Privacy Policy, we transfer
+          your Personal Data to countries that may not offer an adequate level
+          of protection or not considered to have adequate law by the Nigeria
+          Data Protection Commission (NDPC). Where Personal Data is to be
+          transferred to a country outside Nigeria, Monzone shall put adequate
+          measures in place to ensure the security of such Personal Data. In
+          particular, Monzone shall, among other things, conduct a detailed
+          transfer impact assessment of whether the said country is on NDPC’s
+          Whitelist of Countries with adequate data protection laws. <br /> <br /> 2.
+          Monzone may transfer information, including personal information, to a
+          country and jurisdiction that does not have the same data protection
+          laws as Nigeria. However, we always take steps to ensure that your
+          information remains protected wherever it is stored and processed in
+          accordance with applicable laws. Where required under applicable laws,
+          you consent to the transfer of information and the use and disclosure
+          of information about you as described in this Privacy Policy <br /> <br /> 3.
+          Our data transfers to countries that do not offer an adequate level of
+          protection are subject to either of the conditions in accordance with
+          the Nigeria Data Protection Regulation. However, by your continuous
+          use of this Platform, you grant consent to Monzone to only transfer
+          a.That Monzone shall ensure that the third party shall comply
+          Personal Data out of Nigeria on one of the following conditions:<br /> 
+          with this Privacy Policy in handling such data; <br />b.The transfer
+          is necessary for the performance of a contract between Monzone and the
+          Data Subject or implementation of pre-contractual measures taken at
+          the Data Subject's request; <br />c. The transfer is necessary to conclude a
+          contract between Monzone and a third party in the interest of the Data
+          Subject;<br /> d. The transfer is necessary for reason of
+          public interest; <br /> e. The transfer is for the
+          establishment, exercise, or defense of legal claims; <br />
+          f. The transfer is necessary in order to protect the
+          vital interests of the Data Subjects or other persons, where the Data
+          Subject is physically or legally incapable of giving consent.<br /> 3. To
+          obtain any relevant information regarding any transfers of your
+          Personal Data to thirdparty countries (including the relevant transfer
+          mechanisms), please contact us at hello@monzonecredit.com <br /><br />
+          16. Users from Other Jurisdictions <br /> <br />1.The
+          Platform is controlled and operated by us from Nigeria. If you are not
+          a resident of Nigeria or you are located outside Nigeria, you are not
+          authorized to use the Service. If you choose to use the Platform or
+          provide information to us, please note that we may transfer the
+          information, including personal information, outside of Nigeria and
+          process it there. <br /> <br />2. We do not represent or warrant
+          that the Platform, or any portion thereof, are appropriate or
+          available for use in any particular jurisdiction. <br /><br /> 3.
+          Those who choose to access the Platform do so on their own initiative
+          and at their own risk, and are responsible for complying with all
+          local laws, rules and regulations, and are subject to United States
+          export controls in connection with your use of the Platform and are
+          responsible for any violations of such controls, including, without
+          limitation, any United States embargoes or other federal rules and
+          regulations restricting exports. <br /><br /> 4. We may limit the
+          availability of the Platform, in whole or in part, to any person,
+          geographic area or jurisdiction that we choose, at any time and in our
+          sole discretion. <br /><br /> 5. Personal information that you
+          publish on the Platform or submit for publication on our Website may
+          be available, via the Internet, around the world. We cannot prevent
+          the use or misuse of such information by others. <br />6.
+          You expressly agree to the transfers of personal information described
+          in this section. <br /><br /> 17.  Remedy in the Event of a
+          Violation of Privacy Policy< br /> <br />1. Where there is any perceived
+          violation of your rights, we shall take appropriate steps to remedy
+          such violations, once confirmed. You shall be appropriately informed
+          of the remedies employed. In the event of a data breach, we shall
+          within 72 (seventy-two) hours of having knowledge of such breach
+          report the details of the breach to the NDPC. Furthermore, we will
+          notify you immediately via email if the breach will result in risk and
+          danger to your rights and freedoms. <br /> <br />2. If you have any
+          complaints regarding our compliance with this Privacy Policy, please
+          email us at hello@monzonecredit.com. We will investigate and attempt
+          to resolve complaints and disputes regarding the use and disclosure of
+          personal information within thirty (30) days in accordance with this
+          Privacy Policy and in accordance with applicable law and regulation. <br /><br />
+          3. If you feel that your Personal Data has not been handled
+          correctly or you are unhappy with our response to any requests you
+          have made to us regarding the use of your Personal Data, you have a
+          right to lodge a complaint with the NITDA. The contact details are:<br />
+         Nigeria Data Protection
+           Commission  (NDPC Tel:  +234929220263,
+          +2348168401851, +2347052420189 Email: info@ndpb.gov.ng <br /> Website: www.
+          ndpb.gov.ng <br /><br /> 18.  Contacting Us <br /><br /> If you have any complaints
+          or any questions about any aspect of this privacy policy or your
+          information, or to exercise any of your rights as described in this
+          privacy policy or under data protection laws, you can contact us at
+          hello@monzonecredit.com
         </p>
       </div>
     </div>
