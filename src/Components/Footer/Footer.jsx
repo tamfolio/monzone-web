@@ -34,10 +34,10 @@ function Footer() {
         <div className="flex items-center justify-between w-[100%]">
           <div className="flex flex-col no-underline no-list-style gap-[20px] mt-[30px]">
             <li>
-              <Link to="/terms&conditions">Terms & Conditions</Link>
+              <Link to="/terms&conditions" onClick={handleLinkClick}>Terms & Conditions</Link>
             </li>
             <li>
-              <a href="/" className="text-[16px] font-regular text-[#0a0a0a]">Privacy Policy</a>
+            <Link to="/privacy_policy" onClick={handleLinkClick}>Privacy Policy</Link>
             </li>
             <li>
               <a href="/">Contact</a>
