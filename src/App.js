@@ -7,7 +7,7 @@ import Faq from "./Pages/Faq/Faq";
 import Homepage from "./Pages/Homepage/Homepage";
 import { Routes, Route, useLocation } from "react-router-dom"; // Import useLocation
 import TermsConditions from "./Pages/Terms_Conditions/TermsConditions";
-import PrivacyPolicy from "./Pages/Terms_Conditions/PrivacyPolicy";
+import PrivacyPolicy from "./Components/PrivacyPolicy";
 import NavbarTwo from "./Components/Navbar/NavbarTwo";
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
         <Route path="/contact-us" element={<Contact />} />
         <Route path="/faq" element={<Faq />} />
         <Route path="/terms&conditions" element={<TermsConditions />} />
-        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+        <Route path="/privacy_policy" element={<PrivacyPolicy />} />
       </Routes>
       <Footer />
     </>

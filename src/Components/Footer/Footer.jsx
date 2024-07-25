@@ -15,7 +15,7 @@ function Footer() {
             <Link to="/terms&conditions" onClick={handleLinkClick}>Terms & Conditions</Link>
           </li>
           <li>
-            <Link to="/privacy-policy">Privacy Policy</Link>
+            <Link to="/privacy_policy" onClick={handleLinkClick}>Privacy Policy</Link>
           </li>
           <li>
             <a href="/">Contact</a>
