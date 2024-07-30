@@ -3,7 +3,7 @@ import React from 'react'
 function SectionFive() {
   return (
     <div className='bg-[#E9E9E9] py-[100px] px-[24px] lg:px-[130px] flex items-center flex-col justify-center'>
-        <h1 className='text-[30px] lg:text-[60px] font-bold w-[223px] lg:w-[468px] text-center'>What our Customers say</h1>
+        <h1 className='text-[30px] lg:text-[60px] font-bold w-[223px] lg:w-[468px] text-center'>What our customers say</h1>
         <div className='flex items-center justify-start lg:justify-center gap-[50px] mt-[80px] w-[100%] overflow-x-scroll lg:overflow-hidden'>
             <div className='bg-white min-w-[360px] lg:w-[360px] h-[430px] rounded-[20px] px-[22px] py-[30px]'>
                 <img src="/assets/customer1.png" alt="" />

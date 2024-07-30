@@ -21,14 +21,14 @@ function MobileMenu({activeToggle}) {
         </li>
       </div>
       <div className="flex gap-[20px] mt-[60px]">
-          <div className="bg-white w-[160px] h-[50px] rounded-[30px] flex items-center justify-center gap-[7px]">
+          <a href='https://play.google.com/store/apps/details?id=com.fintech.monzonecredit' target="blank" className="bg-white w-[160px] h-[50px] rounded-[30px] flex items-center justify-center gap-[7px]">
             <img src="/assets/apple_logo.png" alt="" />
             <p className="mb-0">Google Play</p>
-          </div>
-          <div className="bg-white w-[160px] h-[50px] rounded-[30px] flex items-center justify-center gap-[7px]">
+          </a>
+          <a  href='https://apps.apple.com/ng/app/monzone/id6502399515' target="blank" className="bg-white w-[160px] h-[50px] rounded-[30px] flex items-center justify-center gap-[7px]">
             <img src="/assets/apple_logo.png" alt="" />
             <p className="mb-0">Apple</p>
-          </div>
+          </a>
         </div>
         <p className="absolute bottom-5 text-[24px]">&copy; Monzone {currentYear}</p>
     </div>

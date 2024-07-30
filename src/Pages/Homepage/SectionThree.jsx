@@ -6,7 +6,7 @@ function SectionThree() {
       <div className="flex flex-col items-center justify-center lg:items-start lg:justify-center">
         <h1 className="text-[30px] lg:text-[60px] font-bold w-[323px] lg:w-[520px] mb-[40px] text-center lg:text-left lg:ml-[-20px]">Your best choice for personal and business banking</h1>
         <p className="text-[18px] w-[323px] lg:w-[458px] mb-[40px] text-left">
-          'Payments, invoicing, savings, loans, terminals... everything you
+          Payments, invoices, savings, loans, terminals... everything you
           need.
         </p>
         <div>

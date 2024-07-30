@@ -21,3 +21,7 @@ p{
 .noise{
   background-image: url('../public/assets/texture.png');
 }
+
+.left-text{
+  text-align: left!important;
+}
