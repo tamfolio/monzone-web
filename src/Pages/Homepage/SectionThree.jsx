@@ -4,7 +4,8 @@ function SectionThree() {
   return (
     <div className="bg-[#E9E9E9] flex flex-col lg:flex-row items-center justify-center px-[50px] lg:px-[122px] pt-[40px] lg:pt-[100px] gap-[50px] lg:gap-[100px]">
       <div className="flex flex-col items-center justify-center lg:items-start lg:justify-start">
-        <h1 className="text-[30px] lg:text-[60px] font-bold w-[323px] lg:w-[520px] mb-[40px] text-center lg:text-left lg:ml-[-20px]">Your best choice for personal and business banking</h1>
+        <span className="text-[30px] lg:text-[60px] font-bold w-[323px] lg:w-[520px] mb-[40px] text-left  hidden lg:block">Your best choice for personal and business banking</span>
+        <span className="text-[30px] lg:text-[60px] font-bold w-[323px] lg:w-[520px] mb-[40px] text-center  block lg:hidden">Your best choice for personal and business banking</span>
         <p className="text-[18px] w-[323px] lg:w-[458px] mb-[40px] text-left">
           Payments, invoices, savings, loans, terminals... everything you
           need.
