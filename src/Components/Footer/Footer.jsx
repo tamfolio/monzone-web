@@ -21,7 +21,7 @@ function Footer() {
             <a href="/">Contact</a>
           </li>
           <li>
-            <a href="/">Monzone 2024</a>
+            <a href="/">&#169; Monzone, 2024</a>
           </li>
         </div>
         <div className="flex gap-[40px]">
@@ -43,7 +43,7 @@ function Footer() {
               <a href="/">Contact</a>
             </li>
             <li>
-              <a href="/">Monzone 2024</a>
+              <a href="/">&#169; Monzone, 2024</a>
             </li>
           </div>
           <div className="flex gap-[40px]">
