@@ -12,10 +12,14 @@ function Footer() {
         <img src="/assets/logo2.png" alt="" />
         <div className="flex no-underline no-list-style gap-[30px]">
           <li>
-            <Link to="/terms_of_use" onClick={handleLinkClick}>Terms of Use</Link>
+            <Link to="/terms_of_use" onClick={handleLinkClick}>
+              Terms of Use
+            </Link>
           </li>
           <li>
-            <Link to="/privacy_policy" onClick={handleLinkClick}>Privacy Policy</Link>
+            <Link to="/privacy_policy" onClick={handleLinkClick}>
+              Privacy Policy
+            </Link>
           </li>
           <li>
             <a href="/">Contact</a>
@@ -25,7 +29,9 @@ function Footer() {
           </li>
         </div>
         <div className="flex gap-[40px]">
-          <img src="/assets/twitter.png" alt="" />
+          <a href="https://x.com/monzonecredit?s=21&t=wGdZhwYfxjrfV3uCi7yWIQ">
+            <img src="/assets/twitter.png" alt="" />
+          </a>
           <img src="/assets/linkedin.png" alt="" />
         </div>
       </div>
@@ -34,10 +40,14 @@ function Footer() {
         <div className="flex items-center justify-between w-[100%]">
           <div className="flex flex-col no-underline no-list-style gap-[20px] mt-[30px]">
             <li>
-              <Link to="/terms_of_use" onClick={handleLinkClick}>Terms of Use</Link>
+              <Link to="/terms_of_use" onClick={handleLinkClick}>
+                Terms of Use
+              </Link>
             </li>
             <li>
-            <Link to="/privacy_policy" onClick={handleLinkClick}>Privacy Policy</Link>
+              <Link to="/privacy_policy" onClick={handleLinkClick}>
+                Privacy Policy
+              </Link>
             </li>
             <li>
               <a href="/">Contact</a>
@@ -47,7 +57,9 @@ function Footer() {
             </li>
           </div>
           <div className="flex gap-[40px]">
-            <img src="/assets/twitter.png" alt="" />
+            <a href="https://x.com/monzonecredit?s=21&t=wGdZhwYfxjrfV3uCi7yWIQ">
+              <img src="/assets/twitter.png" alt="" />
+            </a>
             <img src="/assets/linkedin.png" alt="" />
           </div>
         </div>
