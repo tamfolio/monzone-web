@@ -87,16 +87,16 @@ function ContactUs() {
         </p>
       </div>
       <form
-        className="flex gap-[90px] min-w-[300px] lg:min-w-[500px] lg:w-[700px] flex-wrap"
+        className="flex gap-[30px] min-w-[300px] lg:min-w-[500px] lg:w-[700px] flex-wrap"
         onSubmit={handleSubmit}
       >
-        <div className="flex gap-5">
+        <div className="flex gap-5 flex-col lg:flex-row">
           <div className="flex flex-col">
             <label htmlFor="firstName">First Name</label>
             <input
               type="text"
               name="firstName"
-              className="border-b border-gray-400 focus:border-gray-800 focus:outline-none py-2 px-3 text-gray-700 min-w-[315px] lg:w-[300px]"
+              className="border-b border-gray-400 focus:border-gray-800 focus:outline-none py-2 px-3 text-gray-700 w-[382px]  lg:w-[300px]"
               value={formData.firstName}
               onChange={handleChange}
             />
@@ -106,7 +106,7 @@ function ContactUs() {
             <input
               type="text"
               name="lastName"
-              className="border-b border-gray-400 focus:border-gray-800 focus:outline-none py-2 px-3 text-gray-700 min-w-[315px] lg:w-[300px]"
+              className="border-b border-gray-400 focus:border-gray-800 focus:outline-none py-2 px-3 text-gray-700 w-[382px]  lg:w-[300px]"
               value={formData.lastName}
               onChange={handleChange}
             />
