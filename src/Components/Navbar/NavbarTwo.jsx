@@ -34,7 +34,7 @@ function NavbarTwo() {
         </div>
         <div className="lg:flex gap-[20px] hidden">
           <a href='https://play.google.com/store/apps/details?id=com.fintech.monzonecredit' target="blank" className="bg-[#FDB813] w-[160px] h-[50px] rounded-[30px] flex items-center justify-center gap-[7px]">
-            <img src="/assets/apple_logo.png" alt="" />
+          <img src="/assets/google_play_fill.png" alt="" />
             <p className="mb-0">Google Play</p>
           </a>
           <a href='https://apps.apple.com/ng/app/monzone/id6502399515' target="blank" className="bg-[#FDB813] w-[160px] h-[50px] rounded-[30px] flex items-center justify-center gap-[7px]">
